@@ -46,28 +46,28 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="3D objects\cube.obj">
+    <Text Include="3D objects\cube.txt">
       <Filter>OBJ files</Filter>
     </Text>
-    <Text Include="3D objects\axis.obj">
+    <Text Include="3D objects\axis.txt">
       <Filter>OBJ files</Filter>
     </Text>
-    <Text Include="3D objects\mountains.obj">
+    <Text Include="3D objects\mountains.txt">
       <Filter>OBJ files</Filter>
     </Text>
-    <Text Include="3D objects\rabbit.obj">
+    <Text Include="3D objects\rabbit.txt">
       <Filter>OBJ files</Filter>
     </Text>
-    <Text Include="3D objects\spaceShip.obj">
+    <Text Include="3D objects\spaceShip.txt">
       <Filter>OBJ files</Filter>
     </Text>
     <Text Include="3D objects\spyroLevel.txt">
       <Filter>OBJ files</Filter>
     </Text>
-    <Text Include="3D objects\teaPot.obj">
+    <Text Include="3D objects\teaPot.txt">
       <Filter>OBJ files</Filter>
     </Text>
-    <Text Include="3D objects\torus.obj">
+    <Text Include="3D objects\torus.txt">
       <Filter>OBJ files</Filter>
     </Text>
   </ItemGroup>

@@ -7,15 +7,15 @@ int main() {
 	Engine3D engine("3D Ascii Art!");
 
 	// create the meshes
-	Mesh mesh1("3D objects/spaceShip.obj");
+	Mesh mesh1("3D objects/spaceShip.txt");
 	mesh1.move(0, 0, 10);
-	Mesh mesh2("3D objects/spaceShip.obj");
+	Mesh mesh2("3D objects/spaceShip.txt");
 	mesh2.move(0, 0, 40);
-	Mesh mesh3("3D objects/teaPot.obj");
+	Mesh mesh3("3D objects/teaPot.txt");
 	mesh3.move(10, 30, -20);
-	Mesh mesh4("3D objects/torus.obj");
+	Mesh mesh4("3D objects/torus.txt");
 	mesh4.move(20, -10, 5);
-	Mesh mesh5("3D objects/rabbit.obj");
+	Mesh mesh5("3D objects/rabbit.txt");
 	mesh5.move(-20, 10, 5);
 	mesh5.scale(0.1);
 	mesh5.rotate(3.14 / 2, 0, 0);
